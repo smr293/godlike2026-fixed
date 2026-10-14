@@ -1,0 +1,5 @@
+# Versions actually used for the Windows/Python 3.11 validation run.
+# Install in a dedicated environment; this is not a transitive hash lock.
+requests==2.34.2
+truststore==0.10.4
+solders==0.29.0
